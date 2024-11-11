@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>wualacomprarapida</name>
+	<displayName><![CDATA[Compra Rápida]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Realiza una compra rápida de varios productos rápidamente.]]></description>
+	<author><![CDATA[Wuala]]></author>
+	<tab><![CDATA[search_filter]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+</module>
